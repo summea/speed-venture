@@ -36,7 +36,7 @@ int main (void)
         // ... and this one. But your inner loop must do the same
         // number of additions as this one does.
 
-        }
+    }
 
     // You can add some final code between this comment ...
     free(array);
