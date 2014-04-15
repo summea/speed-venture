@@ -21,7 +21,7 @@ speed-venture is all about learning how to speed up a given portion of code. In 
 
     real  0m4.828s
     user  0m4.756s
-    sys 0m0.060s
+    sys   0m0.060s
 
 ## Notes
 
